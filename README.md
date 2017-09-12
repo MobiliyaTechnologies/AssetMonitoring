@@ -1,4 +1,4 @@
-# AssetMonitoring
+# Asset Monitoring (ASTRA)
 Asset Monitoring Solution Accelerator
 
 ## About
