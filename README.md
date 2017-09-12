@@ -24,8 +24,8 @@ Following are the list of documents available for reference:
 
 ## List of reference hardware (on premise)
 
-Dell 5000 Gateway (which can install PIServer interfaces & connectors)
+Dell 5000 Gateway: Which acts as sensor aggregator, run edge analytics (Azure Stream Analytics on Edge)
 
-Ti Sensortags - 2650
+TI Sensortags - 2650
 
 Bosch Sensors - XDK
