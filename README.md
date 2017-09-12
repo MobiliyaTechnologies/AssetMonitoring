@@ -26,6 +26,6 @@ Following are the list of documents available for reference:
 
 Dell 5000 Gateway (which can install PIServer interfaces & connectors)
 
-Ti Sensortaga - 2650
+Ti Sensortags - 2650
 
 Bosch Sensors - XDK
