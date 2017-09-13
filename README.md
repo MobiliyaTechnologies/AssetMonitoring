@@ -1,5 +1,5 @@
-# Asset Monitoring (ASTRA)
-Asset Monitoring Solution Accelerator
+# Asset Tracking & Monitoring (ASTRA)
+Asset Tracking & Monitoring Solution Accelerator
 
 ## About
 1) This is the toplevel project which will provide the information regarding setup & deployment of Asset Monitoring Solution.
