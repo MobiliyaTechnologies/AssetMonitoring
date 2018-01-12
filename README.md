@@ -21,6 +21,7 @@ Following are the list of documents available for reference:
 
 1) User guide: To use the solution deployed.
 2) Admin guide: To configure and use the solution deployed.
+3) Api Documentaion: Please refer 'AssetMonitoringApi.zip' from AMSRESTServer repository.
 
 ## List of reference hardware (on premise)
 
